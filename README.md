@@ -3,6 +3,12 @@ chat-ai-npcs-video-resources
 
 Code for video "Create Intelligent NPCs using Chat AI!", https://youtu.be/RSzeqjKJABk
 
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=RSzeqjKJABk">
+         <img src="https://www.youtube.com/watch?v=RSzeqjKJABk/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 Currently this contains code for:
 - speech to text
 - text to speech
