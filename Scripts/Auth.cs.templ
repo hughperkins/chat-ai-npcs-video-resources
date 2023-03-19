@@ -1,0 +1,23 @@
+// copy this to Auth.cs, then update to your actual openai key
+
+// dont save your actual auth key, i.e. Auth.cs, to github lol :P
+
+// note: you probably dont need all of these. Just the ones you are actually using
+
+// Speech to text services (choose one):
+// to get ibm key go to https://cloud.ibm.com/catalog/services/speech-to-text
+// to get replicate api key go to https://replicate.com/account
+// (or create your own service using python/openai_whisper_server.py)
+
+// GPT3, ChatGPT:
+// To get openai key, go to https://openai.com/api/
+
+// Google text to speech services:
+// to get google api key go to https://console.cloud.google.com/apis/library/texttospeech.googleapis.com
+
+public class Auth {
+    public static string openai_api_key = "[paste your OpenAI API key here]";
+    public static string replicate_api_key = "[paste your Replicate API key here]";
+    public static string google_api_key = "[paste your google API key here]";
+    public static string ibm_api_key = "[paste your IBM API key here]";
+}

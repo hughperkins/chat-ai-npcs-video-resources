@@ -53,3 +53,9 @@ await foreach(string sentence in conversation.SendStreaming()) {
 ```
 
 Same interface works for GPT3Conversation.
+
+# Auth
+
+This code assumes you have a class `Auth.cs`, containing the various api keys, such as OpenAI key etc.
+
+You can copy and paste `Auth.cs.templ`, and fill in the various keys you need.
