@@ -5,7 +5,7 @@ Code for video "Create Intelligent NPCs using Chat AI!", https://youtu.be/RSzeqj
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=RSzeqjKJABk">
-         <img src="https://img.youtube.com/vi/RSzeqjKJABk/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/RSzeqjKJABk/0.jpg" style="width:180px;">
       </a>
 </div>
 
